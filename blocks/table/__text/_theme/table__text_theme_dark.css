@@ -1,0 +1,11 @@
+.table__text_theme_dark {
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: normal;
+    color: white;
+    text-align: start;
+  }
+
+  .table__text_theme_dark:last-of-type {
+    margin: 0;
+  }
