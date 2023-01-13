@@ -1,0 +1,5 @@
+.footer__column_content_info {
+    color: white;
+    display: flex;
+    flex-direction: column;
+  }

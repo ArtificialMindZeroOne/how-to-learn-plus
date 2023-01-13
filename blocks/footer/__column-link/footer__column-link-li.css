@@ -1,0 +1,5 @@
+.footer__column-link-li {
+    display: flex;
+    flex-direction: row; 
+    text-decoration:none;
+  }
