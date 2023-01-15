@@ -8,4 +8,6 @@
     margin-top: 90px;
     margin-bottom: 20px;
     color: white;
+    position: relative;
+    z-index: 1;
   }
