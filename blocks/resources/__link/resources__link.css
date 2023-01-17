@@ -3,4 +3,9 @@
     height: 38px;
     display: flex;
     justify-content: center;
+    transition: .5s ease-in-out;
+  }
+
+  .resources__link:hover {
+    opacity: .6;
   }

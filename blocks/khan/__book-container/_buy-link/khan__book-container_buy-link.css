@@ -4,4 +4,10 @@
     font-weight: normal;
     color: #2f80ed; 
     text-decoration:none;
+    transition: .5s ease-in-out;
+    align-self: flex-start;
+}
+
+.khan__book-container_buy-link:hover {
+    opacity: .6;
 }

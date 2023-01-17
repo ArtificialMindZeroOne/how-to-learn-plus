@@ -2,4 +2,9 @@
     display: flex;
     flex-direction: row; 
     text-decoration:none;
+    transition: .5s ease-in-out;
+  }
+
+  .footer__column-link-li:hover {
+    opacity: .6;
   }

@@ -8,5 +8,11 @@
     right: 48px;
     z-index: 3;
     margin: 0;
-    text-decoration:none;
+    text-decoration:none;  
+    opacity: 1;
+    transition: ease-in-out 0.3s;
+}
+
+.feynman__link:hover {
+    opacity: .3;
 }

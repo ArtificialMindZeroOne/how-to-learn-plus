@@ -2,4 +2,9 @@
     margin: 0 0 10px;
     display: flex;
     flex-direction: row;
+    transition: .5s ease-in-out;
+  }
+
+  .footer__column-link:hover {
+    opacity: .6;
   }
