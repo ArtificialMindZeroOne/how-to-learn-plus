@@ -1,8 +1,17 @@
 .feynman {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: start;
     background-color: #f2f2f2;
     position: relative;
     min-height: 890px;
   }
+
+
+ /* .feynman__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 0;
+  } 
