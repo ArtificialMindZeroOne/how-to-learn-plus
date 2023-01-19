@@ -1,4 +1,7 @@
 .table__text {
     text-align: start;
-    margin: 0 0 20px;
+    margin: 20px 0 0;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: normal;
   }

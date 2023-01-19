@@ -6,3 +6,7 @@
     font-weight: normal;
     text-align: start;
   }
+
+.two-columns__paragraph:last-of-type {
+margin-bottom: 0;
+}
